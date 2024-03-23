@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **akashathare41@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Alz5G0aiy1koL8g2uCA7vRpiwGbOMuKj/view?usp=sharing](https://drive.google.com/file/d/1Alz5G0aiy1koL8g2uCA7vRpiwGbOMuKj/view?usp=sharing)
+- 📄 Know about my experiences
 
 - ⚡ Fun fact **Nothing!**
 

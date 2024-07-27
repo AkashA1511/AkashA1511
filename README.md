@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **akashathare411@gmail.com**
 
-- ⚡ Fun fact **I play guitar very well in fingerstyle. I find the concept of breaking into systems like in movies fascinating. I believe in continuous learning and documenting my journey.**
+- ⚡ Fun fact **I play guitar very well in fingerstyle,I find the concept of breaking into systems like in movies fascinating,I believe in continuous learning and documenting my journey.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

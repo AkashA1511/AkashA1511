@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)]
+[![MasterHead]([https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss](https://imgs.search.brave.com/zKfglqg_A0RCG04VtyNi2l9iklPtTTk-P8RNcKXt4vc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNi8x/MS8xOS8yMi81Mi9j/b2RpbmctMTg0MTU1/MF8xMjgwLmpwZw))]
 <h1 align="center">Hi 👋, I'm Akash Athare</h1>
 <h3 align="center">IIT Guwahati | Cybersecurity, Ethical Hacking, and Red Teaming</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">

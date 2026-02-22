@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akasha1511.github.io/portfolio.github.io/](https://akasha1511.github.io/portfolio.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@akashathare411](https://medium.com/@akashathare411)
+- 📝 I regularly write articles on [https://akasha1511.github.io/](https://akasha1511.github.io/)
 
 - 💬 Ask me about **Cybersecurity,Pentration Testing,Bug Bounty,Security Reasearch**
 

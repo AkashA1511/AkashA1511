@@ -14,13 +14,13 @@
 
 - 🤝 I’m looking for help with **Security Research**
 
-- 👨‍💻 All of my projects are available at [https://akasha1511.github.io/portfolio.github.io/](https://akasha1511.github.io/portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://akasha1511.github.io/Portfolio.io/)
 
-- 📝 I regularly write articles on [https://akasha1511.github.io/](https://akasha1511.github.io/)
+- 📝 I regularly write articles on [Blog](https://akasha1511.github.io/)
 
 - 💬 Ask me about **Cybersecurity,Pentration Testing,Bug Bounty,Security Reasearch**
 
-- 📫 How to reach me **akashathare411@gmail.com**
+- 📫 How to reach me **akashworks151@gmail.com**
 
 - ⚡ Fun fact **I play guitar very well in fingerstyle,I find the concept of breaking into systems like in movies fascinating,I believe in continuous learning and documenting my journey.**
 

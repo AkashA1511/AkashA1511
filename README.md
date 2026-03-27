@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Security Research**
 
-- 👨‍💻 All of my projects are available at [hackerakash.online](hackerakash.online)
+- 👨‍💻 All of my projects are available at [hackerakash.online](http://hackerakash.online)
 
 - 📝 I regularly write articles on [Blog](https://akasha1511.github.io/)
 

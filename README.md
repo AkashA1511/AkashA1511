@@ -33,7 +33,7 @@
 <p align="center">
 <a href="https://twitter.com/fury_1511"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
 <a href="https://linkedin.com/in/akashathare"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://medium.com/@akashathare411"><img src="https://skillicons.dev/icons?i=devto" height="40"/></a>
+<a href="https://medium.com/@C0deRevenant"><img src="https://skillicons.dev/icons?i=devto" height="40"/></a>
 </p>
 
 ---
